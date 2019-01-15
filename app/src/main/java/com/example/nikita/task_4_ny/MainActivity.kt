@@ -9,6 +9,7 @@ import android.view.View
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import android.widget.Spinner
+import com.example.nikita.task_4_ny.adapter.Adapter
 import com.example.nikita.task_4_ny.enities.ClassInfo
 import kotlinx.android.synthetic.main.activity_main.*
 

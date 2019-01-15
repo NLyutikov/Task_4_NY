@@ -10,6 +10,7 @@
     <string name="php_title">PHP</string>
     <string name="sql_title">SQL</string>
     <string name="objc_title">Objective-C</string>
+
     <string name="java_author">Джеймс Гослинг</string>
     <string name="c_author">Деннис Ритчи, Кен Томпсон</string>
     <string name="py_author">Гвидо ван Россум</string>
@@ -20,6 +21,11 @@
     <string name="php_author">Расмус Лердорф</string>
     <string name="sql_author">Дональд Чемберлин, Рэймонд Бойс</string>
     <string name="objc_author">Бред Кокс</string>
+    
+    <string-array name="pl_years">
+        <item id = "1">1995</item>
+    </string-array>
+    
     <string-array name="spin_list">
         <item>All paradigms</item>
         <item>Imperative</item>

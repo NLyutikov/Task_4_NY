@@ -1,4 +1,4 @@
-package com.example.nikita.task_4_ny
+package com.example.nikita.task_4_ny.adapter
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -9,6 +9,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import com.example.nikita.task_4_ny.R
+import com.example.nikita.task_4_ny.WebActivity
 import com.example.nikita.task_4_ny.enities.ClassInfo
 
 class Adapter(var data: List<ClassInfo>) : RecyclerView.Adapter<Adapter.ViewHolder>() {
