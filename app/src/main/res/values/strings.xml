@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Task_4_NY</string>
+    <string name="java_title">Java</string>
+    <string name="c_title">C</string>
+    <string name="py_title">Python</string>
+    <string name="cpp_title">C++</string>
+    <string name="vbn_title">Visual Basic .NET</string>
+    <string name="js_title">JavaScript</string>
+    <string name="csh_title">C#</string>
+    <string name="php_title">PHP</string>
+    <string name="sql_title">SQL</string>
+    <string name="objc_title">Objective-C</string>
+    <string name="java_author">Джеймс Гослинг</string>
+    <string name="c_author">Деннис Ритчи, Кен Томпсон</string>
+    <string name="py_author">Гвидо ван Россум</string>
+    <string name="cpp_author">Страуструп, Бьёрн</string>
+    <string name="vbn_author">Microsoft Corporation</string>
+    <string name="js_author">Брендан Эйх</string>
+    <string name="csh_author">Андерс Хейлсберг</string>
+    <string name="php_author">Расмус Лердорф</string>
+    <string name="sql_author">Дональд Чемберлин, Рэймонд Бойс</string>
+    <string name="objc_author">Бред Кокс</string>
+    <string-array name="spin_list">
+        <item>All paradigms</item>
+        <item>Imperative</item>
+        <item>Structured</item>
+        <item>Procedural</item>
+        <item>Functional</item>
+        <item>Object-oriented</item>
+        <item>Event-driven including time-driven</item>
+        <item>Declarative</item>
+    </string-array>
+    <string-array name="java_paradigm">
+        <item>Imperative</item>
+        <item>Structured</item>
+        <item>Procedural</item>
+        <item>Functional</item>
+        <item>Object-oriented</item>
+    </string-array>
+    <string-array name="c_paradigm">
+        <item>Imperative</item>
+        <item>Structured</item>
+        <item>Procedural</item>
+    </string-array>
+    <string-array name="py_paradigm">
+        <item>Imperative</item>
+        <item>Structured</item>
+        <item>Procedural</item>
+        <item>Functional</item>
+        <item>Object-oriented</item>
+    </string-array>
+    <string-array name="cpp_paradigm">
+        <item>Imperative</item>
+        <item>Structured</item>
+        <item>Procedural</item>
+        <item>Functional</item>
+        <item>Object-oriented</item>
+    </string-array>
+    <string-array name="vbn_paradigm">
+        <item>Imperative</item>
+        <item>Structured</item>
+        <item>Object-oriented</item>
+    </string-array>
+    <string-array name="js_paradigm">
+        <item>Functional</item>
+        <item>Event-driven including time-driven</item>
+        <item>Object-oriented</item>
+    </string-array>
+    <string-array name="csh_paradigm">
+        <item>Object-oriented</item>
+    </string-array>
+    <string-array name="php_paradigm">
+        <item>Imperative</item>
+        <item>Structured</item>
+        <item>Procedural</item>
+        <item>Object-oriented</item>
+    </string-array>
+    <string-array name="sql_paradigm">
+        <item>Declarative</item>
+    </string-array>
+    <string-array name="objc_paradigm">
+        <item>Object-oriented</item>
+    </string-array>
+
+</resources>
